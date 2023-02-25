@@ -1,0 +1,19 @@
+.name {
+	font-family: arial;
+	font-size: large;
+	
+}
+
+.param {
+	font-family: arialy;
+	font-size: 14px;
+}
+
+.mar {
+	margin-top: 40px;
+}
+
+.flowAround {
+	float: left; /* Выравниваем по левому краю */
+	margin: 10px 10px 10px 0; /* Настраиваем отступы вокруг картинки */
+}
