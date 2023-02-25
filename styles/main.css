@@ -17,3 +17,13 @@
 	float: left; /* Выравниваем по левому краю */
 	margin: 10px 10px 10px 0; /* Настраиваем отступы вокруг картинки */
 }
+
+/* строковий елемент  */
+.inline-test {
+	background-color: #ffffe6;
+}
+
+/* блоковий елемент */
+.block-test {
+		background-color: #ffffe6;
+}
